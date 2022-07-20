@@ -1,0 +1,15 @@
+C:\Users\estio\source\repos\ConsoleBingo\ConsoleBingo\bin\Debug\net6.0\ConsoleBingo.exe
+C:\Users\estio\source\repos\ConsoleBingo\ConsoleBingo\bin\Debug\net6.0\ConsoleBingo.deps.json
+C:\Users\estio\source\repos\ConsoleBingo\ConsoleBingo\bin\Debug\net6.0\ConsoleBingo.runtimeconfig.json
+C:\Users\estio\source\repos\ConsoleBingo\ConsoleBingo\bin\Debug\net6.0\ConsoleBingo.dll
+C:\Users\estio\source\repos\ConsoleBingo\ConsoleBingo\bin\Debug\net6.0\ConsoleBingo.pdb
+C:\Users\estio\source\repos\ConsoleBingo\ConsoleBingo\obj\Debug\net6.0\ConsoleBingo.csproj.AssemblyReference.cache
+C:\Users\estio\source\repos\ConsoleBingo\ConsoleBingo\obj\Debug\net6.0\ConsoleBingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estio\source\repos\ConsoleBingo\ConsoleBingo\obj\Debug\net6.0\ConsoleBingo.AssemblyInfoInputs.cache
+C:\Users\estio\source\repos\ConsoleBingo\ConsoleBingo\obj\Debug\net6.0\ConsoleBingo.AssemblyInfo.cs
+C:\Users\estio\source\repos\ConsoleBingo\ConsoleBingo\obj\Debug\net6.0\ConsoleBingo.csproj.CoreCompileInputs.cache
+C:\Users\estio\source\repos\ConsoleBingo\ConsoleBingo\obj\Debug\net6.0\ConsoleBingo.dll
+C:\Users\estio\source\repos\ConsoleBingo\ConsoleBingo\obj\Debug\net6.0\refint\ConsoleBingo.dll
+C:\Users\estio\source\repos\ConsoleBingo\ConsoleBingo\obj\Debug\net6.0\ConsoleBingo.pdb
+C:\Users\estio\source\repos\ConsoleBingo\ConsoleBingo\obj\Debug\net6.0\ConsoleBingo.genruntimeconfig.cache
+C:\Users\estio\source\repos\ConsoleBingo\ConsoleBingo\obj\Debug\net6.0\ref\ConsoleBingo.dll
