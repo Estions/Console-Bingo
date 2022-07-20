@@ -18,13 +18,14 @@ if (BagSize < DrawSize)
 #endregion
 
 #region My Variables
-int DrawDelay = 50;
+//Delay in millis when showing the drawn numbers
+int DrawDelay = 0;
 List<int> Bag = new List<int>();
 #endregion
 
 //Fill Bag With Integers from 1 to {BagSize}
 //This is reasonable, since after testing, the chances of getting at least 100 score are incredibly low.
-for (int i = 1; i < BagSize+1; i++) Bag.Add(i);
+for (int i = 1; i < BagSize + 1; i++) Bag.Add(i);
 
 //Declare the Bingo Board
 Board mainBoard = new Board(Height, Width);

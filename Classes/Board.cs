@@ -6,6 +6,7 @@
         public int Width { get; set; }
 
         public int ScorePerRow = 100;
+        public int MaxScore = 1500;
 
         public List<Ball> Cells { get; }
 
@@ -70,7 +71,7 @@
                 totalCount += rowCount;
                 if (rowCount == Width) totalScore += ScorePerRow;
             }
-            if(totalCount == Cells.Count) totalScore = ScorePerRow * Cells.Count;
+            if (totalCount == Cells.Count) totalScore = MaxScore;
             return totalScore;
         }
     }
